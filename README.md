@@ -1,0 +1,1 @@
+# Django.-Homework-2_2-ORM-Part1-2
